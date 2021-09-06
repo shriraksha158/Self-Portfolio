@@ -1,0 +1,103 @@
+
+.bgimg {
+    background-image: url("../Images/bgimg2.jpg");
+    background-size: 100% 100%;
+    background-attachment: fixed;
+    width: 100%;
+    height: 740px;
+}
+
+.text-1 {
+    font-size: 27px;
+}
+
+.text-2 {
+    font-size: 60px;
+}
+
+.text-3 {
+    font-size: 40px;
+}
+
+.text-3 span {
+    font-weight: 500;
+}
+
+li {
+    
+    margin-right: 40px;
+}
+
+.headerset {
+    padding-top: 250px;
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+
+.aboutme {
+    padding: 50px 0px 60px;
+    max-height: 1200px;
+}
+
+.aboutme h1{
+    font-size: 50px;
+    font-weight: bold;
+}
+
+.rowsetting {
+    margin: 20px 0px 40px;
+}
+
+.image {
+    align-self: center !important;
+    border-radius: 2px;
+    max-height: 350px;
+    max-width: 350px;
+}
+
+.about {
+    margin: 20px 0px;
+}
+
+.bgedu {
+    background-color: grey;
+    width: 100%;
+    max-height: 1200px;
+    min-height: 600px;
+}
+
+.education {
+    padding: 80px 0px 0px;
+}
+
+.education h1{
+    font-size: 50px;
+    font-weight: bold;
+}
+
+.iconsetting {
+    border-radius: 50px;
+    padding:80px 0px;
+    height: 100px;
+    width: 100%;
+}
+
+.contact {
+    padding: 80px 5px 80px;
+}
+
+.contact h1 {
+    font-size: 50px;
+    font-weight: bold;
+}
+
+.contactsetting {
+    margin-bottom: 80px;
+}
+
+.footer {
+    background-color: black;
+    padding: 50px 5px 20px;
+    max-height: 1000px;
+    min-height: 350px;
+}
